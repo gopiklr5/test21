@@ -1,0 +1,10 @@
+{
+  "env": {
+    "usrn": "admin",
+    "pass": "password",
+    "url": "http://eaapp.somee.com/"
+  },
+  "reporter": "mochawesome",
+  "video": false,
+  "projectId": "kyn3ma"
+}
